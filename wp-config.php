@@ -25,7 +25,7 @@ define('DB_NAME', 'travel_1');
 /** MySQL database username */
 define('DB_USER', 'root');
 /** MySQL database password */
-define('DB_PASSWORD', '123456');
+define('DB_PASSWORD', '123456aA@');
 /** MySQL hostname */
 define('DB_HOST', '103.149.28.238');
 /** Database Charset to use in creating database tables. */
